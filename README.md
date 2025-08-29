@@ -1,7 +1,7 @@
 # 🏏 IPL First Innings Score Prediction
 
 <p align="center">
-  <img src="readme_resources/ipl-banner.jpg" alt="FISP" width="400"/>
+  <img src="readme_resources/ipl-banner.jpg" alt="FISP" width="200"/>
 </p>
 
 ![Dataset](https://img.shields.io/badge/Dataset-Shivam_Mitra-blue.svg) 
